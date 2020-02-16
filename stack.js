@@ -95,7 +95,7 @@ function factorial(n) {
     }
 
     return product;
-    ``
+    
 }
 
 console.log(factorial(5));
